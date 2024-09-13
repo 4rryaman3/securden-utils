@@ -1,0 +1,7 @@
+D:\C#FUn\CleanService\bin\Debug\CleanService.exe.config
+D:\C#FUn\CleanService\bin\Debug\CleanService.exe
+D:\C#FUn\CleanService\bin\Debug\CleanService.pdb
+D:\C#FUn\CleanService\obj\Debug\CleanService.csproj.AssemblyReference.cache
+D:\C#FUn\CleanService\obj\Debug\CleanService.csproj.CoreCompileInputs.cache
+D:\C#FUn\CleanService\obj\Debug\CleanService.exe
+D:\C#FUn\CleanService\obj\Debug\CleanService.pdb
